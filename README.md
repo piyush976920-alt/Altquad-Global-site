@@ -1,2 +1,0 @@
-# Altquad-Global-site
-site
